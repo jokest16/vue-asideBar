@@ -2,190 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a691f8fc-3459-425f-a612-332f849f57a0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/.eslintrc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/check-versions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/dev-client.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/dev-server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/vue-loader.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/webpack.base.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/webpack.dev.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/webpack.prod.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/build/webpack.test.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/capture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/config/dev.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/config/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/config/prod.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/config/test.env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/css/app.1dbdc262e887b9733448fa7d0f5c64d6.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/fontawesome-webfont.674f50d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/fontawesome-webfont.af7ae50.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/fontawesome-webfont.b06871f.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/fontawesome-webfont.fee66e7.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/glyphicons-halflings-regular.448c34a.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/glyphicons-halflings-regular.e18bbf6.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/glyphicons-halflings-regular.f4769f9.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/fonts/glyphicons-halflings-regular.fa27723.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/avatar04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/avatar2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/avatar3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/avatar5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/boxed-bg.7799dec.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/boxed-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/boxed-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/american-express.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/cirrus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/mastercard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/mestro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/paypal2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/credit/visa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/default-50x50.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/fontawesome-webfont.912ec66.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/glyphicons-halflings-regular.8988968.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/photo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/photo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/photo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/photo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user1-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user2-160x160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user3-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user4-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user5-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user6-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user7-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/img/user8-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/js/app.cfe6e3ac644ab6c978f8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/js/manifest.fc9bc2beb506f95dfc01.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/docs/static/js/vendor.57d39628f81c20567013.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/mock-server/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/App.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/ContentWrap.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/NaviBar.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/Slider.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/assets/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/Hello.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/Modal.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/Sample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAAccordion.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAAlert.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAButton.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VACallout.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VACarousel.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAChart.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VACheckBox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAColorPaletteSet.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VACustomTab.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAFormGroup.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAInput.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAInputGroup.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAProgressBar.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VARadio.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VASelect.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VAText.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VATextarea.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/components/VATextareaGroup.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/APIExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/AlertExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/ChartExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/Dashboard.v1.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/Dashboard.v2.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/InfoBoxExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/ModalExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/examples/WidgetsExample.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/grid/Column.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/grid/Row.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/lib/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/lib/eventBus.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/lib/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/lib/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/forms/GeneralElements.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/Buttons.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/General.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/Icons.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/Modals.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/Sliders.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/pages/ui-elements/Timeline.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/router/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/api/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/api/services/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/api/services/products.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/getters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/messages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/notifications.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/products.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/tasks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/modules/user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/mutation-types.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/vuex/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VABox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VACalendar.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VAChatBox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VADirectChat.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VADirectChatContact.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VADirectChatItem.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VAInfoBox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VAQuickMail.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VASmallBox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VASocialBox.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VASocialBoxComment.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VASocialUser.v1.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VASocialUser.v2.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VATodoList.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/src/widgets/VAUserList.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/avatar04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/avatar2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/avatar3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/avatar5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/boxed-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/boxed-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/american-express.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/cirrus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/mastercard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/mestro.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/paypal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/paypal2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/credit/visa.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/default-50x50.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/photo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/photo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/photo3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/photo4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user1-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user2-160x160.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user3-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user4-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user5-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user6-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user7-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/static/img/user8-128x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/e2e/custom-assertions/elementCount.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/e2e/nightwatch.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/e2e/runner.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/e2e/specs/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/unit/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/unit/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/unit/karma.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/test/unit/specs/Hello.spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vue2-admin-lte/vue2-admin-lte-logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AsideBar.vue" afterPath="$PROJECT_DIR$/src/AsideBar.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Slider.vue" afterPath="$PROJECT_DIR$/src/Slider.vue" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -200,52 +20,28 @@
       <file leaf-file-name="AsideBar.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AsideBar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="109" column="19" lean-forward="false" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="store.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vuex/store.js">
+      <file leaf-file-name="VAChart.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/VAChart.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getters.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vuex/getters.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="actions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vuex/actions.js">
+      <file leaf-file-name="VAUserList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/widgets/VAUserList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mutation-types.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vuex/mutation-types.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="364">
+              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -254,8 +50,18 @@
       <file leaf-file-name="NaviBar.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NaviBar.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4556">
-              <caret line="268" column="18" lean-forward="false" selection-start-line="268" selection-start-column="18" selection-end-line="268" selection-end-column="18" />
+            <state relative-caret-position="-1914">
+              <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -264,30 +70,40 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
+            <state relative-caret-position="323">
+              <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="30" selection-end-column="3" />
               <folding>
-                <element signature="e#246#279#0" expanded="true" />
+                <element signature="e#246#279#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Modal.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Modal.vue">
+      <file leaf-file-name="ContentWrap.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContentWrap.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModalExample.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/examples/ModalExample.vue">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hello.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-605">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -296,8 +112,8 @@
       <file leaf-file-name="Slider.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Slider.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3876">
-              <caret line="228" column="14" lean-forward="false" selection-start-line="228" selection-start-column="14" selection-end-line="228" selection-end-column="14" />
+            <state relative-caret-position="133">
+              <caret line="203" column="44" lean-forward="true" selection-start-line="203" selection-start-column="44" selection-end-line="203" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -314,22 +130,46 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>url</find>
-      <find>с</find>
-      <find>сы</find>
-      <find>c</find>
-      <find>cs</find>
-      <find>css-</find>
       <find>css-loader</find>
       <find>cssSourceMap</find>
       <find>styleLoaders</find>
       <find>Modal</find>
       <find>modal</find>
       <find>css</find>
+      <find>unreadMessagesCount</find>
+      <find>fa fa-book</find>
+      <find>FETCH_PRODUCT</find>
+      <find>showPanel</find>
+      <find>showAdditionalPanels</find>
+      <find>UserList</find>
+      <find>u</find>
+      <find>us</find>
+      <find>use</find>
+      <find>chartjs-hidden-iframe</find>
+      <find>Web Traffic Overview</find>
+      <find>v-a-chart</find>
+      <find>&lt;v-a-chart&gt;</find>
+      <find>Dashboard</find>
+      <find>v</find>
+      <find>v-</find>
+      <find>v-a</find>
+      <find>show-right</find>
+      <find>Test Doughnut Chart</find>
+      <find>VAChart</find>
+      <find>alert alert-success</find>
+      <find>chartConfig</find>
+      <find>chartConfig: {        type: 'pie',        data: {          labels: ['HTML', 'JavaScript', 'CSS'],          datasets: [{            data: [56.6, 37.7, 4.1],            backgroundColor: ['#00a65a', '#f39c12', '#00c0ef'],            hoverBackgroundColor: ['#00a65a', '#f39c12', '#00c0ef']          }]        },        options: {          responsive: true,          maintainAspectRatio: !this.isMobile,          legend: {            position: 'bottom',            display: true          }        }      }</find>
+      <find>va-chart</find>
     </findStrings>
+    <replaceStrings>
+      <replace>showAditioanlLeftPanel</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\projects\vue-asideBar\src\vuex</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue2-admin-lte" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -337,6 +177,11 @@
         <option value="$PROJECT_DIR$/src/AsideBar.html" />
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/src/vuex/actions.js" />
+        <option value="$PROJECT_DIR$/src/vuex/modules/ui.js" />
+        <option value="$PROJECT_DIR$/src/Slider.vue" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/src/AsideBar.vue" />
       </list>
     </option>
@@ -363,7 +208,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -385,39 +230,26 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -427,11 +259,29 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -445,39 +295,87 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mock-server" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vuex" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -487,11 +385,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vue-admin-panel" />
+              <option name="myItemId" value="vue-asideBar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -501,12 +399,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -616,31 +513,33 @@
       <workItem from="1493058977361" duration="154000" />
       <workItem from="1493059242445" duration="7456000" />
       <workItem from="1493128665983" duration="9432000" />
+      <workItem from="1493227376343" duration="23420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17042000" />
+    <option name="totallyTimeSpent" value="40462000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25587606" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3304253" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -670,7 +569,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -688,7 +587,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -714,7 +613,7 @@
         <state relative-caret-position="119">
           <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#246#279#0" expanded="true" />
+            <element signature="e#246#279#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -743,17 +642,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ContentWrap.vue">
+    <entry file="file://$PROJECT_DIR$/src/AsideBar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+    <entry file="file://$PROJECT_DIR$/src/vuex/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/getters.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/mutation-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NaviBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="268" column="18" lean-forward="false" selection-start-line="268" selection-start-column="18" selection-end-line="268" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#246#279#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Modal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/ModalExample.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -779,24 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NaviBar.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4556">
-          <caret line="268" column="18" lean-forward="false" selection-start-line="268" selection-start-column="18" selection-end-line="268" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#246#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Modal.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -813,7 +758,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vuex/mutation-types.js">
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -821,38 +784,172 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/vuex/actions.js">
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/tasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vuex/getters.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="0" selection-start-column="12" selection-end-line="4" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vuex/store.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/mutation-types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/products.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/ui.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vuex/modules/notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/widgets/VABox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="30" selection-end-column="3" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#246#279#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Slider.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="203" column="44" lean-forward="true" selection-start-line="203" selection-start-column="44" selection-end-line="203" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/widgets/VAUserList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NaviBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContentWrap.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-605">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/VAChart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AsideBar.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="323">
+          <caret line="109" column="19" lean-forward="false" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
           <folding />
         </state>
       </provider>
