@@ -5,19 +5,16 @@
             <transition appear name="show-left">
                 <div class="content" v-bind:class="{ '-fifty': showFiftyAsidePanels}" v-show="showAsidePanels">
                     1
-                    <va-chart :chart-config='chartConfig'></va-chart>
                 </div>
             </transition>
             <transition appear name="show-right">
                 <div class="content" v-bind:class="{ '-fifty': showFiftyAsidePanels }" v-show="showAsidePanels">
-                    <va-chart :chart-config='chartConfig'></va-chart>
-                            2
-                    <button class="show" @click="showCenterPanel">show aditional left panel</button>
+                    2
+                     <button @click="showCenterPanel">show additional left panel</button>
                 </div>
             </transition>
             <transition name="show-additional-right">
                 <div class="content" v-bind:class="{ '-fifty': showFiftyAsidePanels}" v-show="showAdditioanlLeftPanel">
-                    <va-chart :chart-config='chartConfig'></va-chart>
                         3
                 </div>
             </transition>
@@ -26,35 +23,12 @@
 </template>
 
 <script>
-  import VAChart from './components/VAChart'
   export default {
     name: 'AsideBar',
-    components: {
-      'va-chart': VAChart
-    },
     data () {
       return {
         showAdditioanlLeftPanel: false,
-        showFiftyAsidePanels: false,
-        chartConfig: {
-          type: 'pie',
-          data: {
-            labels: ['HTML', 'JavaScript', 'CSS'],
-            datasets: [{
-              data: [56.6, 37.7, 4.1],
-              backgroundColor: ['#00a65a', '#f39c12', '#00c0ef'],
-              hoverBackgroundColor: ['#00a65a', '#f39c12', '#00c0ef']
-            }]
-          },
-          options: {
-            responsive: true,
-            maintainAspectRatio: !this.isMobile,
-            legend: {
-              position: 'bottom',
-              display: true
-            }
-          }
-        }
+        showFiftyAsidePanels: false
       }
     },
     computed: {
@@ -100,23 +74,13 @@
         background-color: #ecf0f5;
         min-width: 49%;
         max-width: 49%;
+        padding: 10px;
         overflow: hidden;
-        transform: translateX(0);
         transition: transform .5s ease, min-width .5s ease;
-        padding: 10px
-    }
-
-    .asside-bar > .content > .show {
-        z-index: 10;
     }
 
     .asside-bar > .content.-fifty {
         min-width: 32%;
-        max-width: 32%;
-    }
-
-    .asside-bar > .content.-left {
-        transform: translateX(-135%);
     }
 
     .show-left-enter-active, .show-left-leave-active {
